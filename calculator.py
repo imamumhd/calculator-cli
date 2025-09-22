@@ -1,5 +1,3 @@
-# calculator.py - simple command-line calculator (beginner-friendly)
-
 def get_number(prompt):
     while True:
         try:
@@ -48,3 +46,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
